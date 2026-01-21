@@ -1,1 +1,13 @@
-
+now let us discuss about what is oop object oriented program and let us understand what is class and what is object in detailed 
+so now what is oop it is a programming using objects to create a object we need class object is super class for all classed now hre every  object do something and has something 
+we xan program real world items into programming easiky using this oop for example if we take Dog is a animal it has something ans=d does something it has name color cost and etc... and it do barking and eating here the items which dog has are known as variables it is local or instance and the dog does somethong those are methods as we know like functions in other languages
+same like fan it has something an ddoes something it has cost color brand and it does somethinfg like blows air rotates etc.. are methos
+bebefore oop the programis is progrmmed in procedurall way like c it has somany disadvantages like hard to manage hard to reuse etc.. so oops solves these problems
+goal of oop is Core Goals of OOP
+Goal	Meaning
+Maintainability	Easy to modify code
+Reusability	Use existing code again
+Extensibility	Add new features easily
+Security	Protect data
+Readability	Code is easy to understand and oop has so many realworld problems like 
+compare oop and procedural language 
