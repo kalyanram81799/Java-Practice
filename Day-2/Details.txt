@@ -1,1 +1,2 @@
-
+On Day 2 I Learned About Java Fundamentals 
+And About Classes and Objects
