@@ -1,1 +1,2 @@
-
+Full Detailed Explanation About Variables,Data Types and Operators in Java 
+In Given Pdf
