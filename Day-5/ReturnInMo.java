@@ -4,7 +4,7 @@
 //         return a + b;
 //     }
 
-//     // ❌ Compile-time error
+//     //  Compile-time error
 //     double add(int a, int b) {
 //         return a + b;
 //     }
