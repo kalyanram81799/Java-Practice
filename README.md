@@ -34,9 +34,8 @@ Tools used
 * Git and GitHub
 
 Note
-
 This repository focuses more on clarity and understanding rather than memorization.
-Each topic is written in simple language to build strong fundamentals.
+Each topic is written in simple language to build strong fundamentals along with code.
 
 Author
 
