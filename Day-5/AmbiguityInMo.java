@@ -10,6 +10,6 @@
 
 //     public static void main(String[] args) {
 //         AmbiguityInMo t = new AmbiguityInMo();
-//         t.show(10, 20);   //  ERROR
+//         t.show(10, 20);   //  ERROR by selecting which one to execute
 //     }
 // }
