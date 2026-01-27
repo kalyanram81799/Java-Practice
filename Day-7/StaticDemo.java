@@ -4,7 +4,7 @@ class StaticDemo {
     }
 
     StaticDemo() {
-        System.out.println("Constructor");
+        System.out.println("Constructor ");
     }
 
     public static void main(String[] args) {
