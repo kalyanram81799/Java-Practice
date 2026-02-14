@@ -19,12 +19,11 @@ Repository structure
   Foundations of programming, computer architecture, memory, processor, cache, RAM, HDD, SSD
 
 
-(Topics will be added step by step)
+(Topics will be added step by step frequently)
 
 Who this repository is for
 
 * Beginners learning Java from scratch
-* Students preparing for exams or interviews
 * Anyone who wants strong fundamentals before advanced Java
 
 Tools used
