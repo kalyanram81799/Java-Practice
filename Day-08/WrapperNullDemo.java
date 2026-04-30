@@ -1,7 +1,7 @@
 public class WrapperNullDemo {
     public static void main(String[] args) {
         Integer a = null;
-        // int b = a;  // Uncommenting causes NullPointerException
+        // int b = a;  
         System.out.println(a);
     }
 }
