@@ -30,6 +30,7 @@ Tools used
 
 * Java
 * VS Code 
+* Eclipse
 * Git and GitHub
 
 Note
